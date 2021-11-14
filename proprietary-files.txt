@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from smith QPSS30.205-Q3-43-75-4-2
+# All unpinned blobs below are extracted from smith RPSS31.Q1-40-34-15-1-4
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
@@ -56,6 +56,7 @@ vendor/etc/qdcm_calib_data_mipi_mot_cmd_csot_876x2142_620.xml
 # Fingerprint
 vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service-fpc
 vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service-fpc.rc
+vendor/lib64/com.fingerprints.extension@1.0.so
 vendor/lib64/com.motorola.hardware.biometric.fingerprint@1.0.so
 
 # Listen
@@ -116,9 +117,8 @@ vendor/etc/sensors/config/tmd2725_0.json
 vendor/etc/sensors/config/tmd2725_1.json
 vendor/etc/sensors/hals.conf
 vendor/etc/sensors/sns_reg_config
-vendor/lib64/sensors.rp.so
+vendor/lib64/sensors.moto.so
 vendor/lib64/sensors.ssc.so
-vendor/lib64/sensors.tof.so
 
 # Thermal
 vendor/etc/thermal-engine-smith.conf
