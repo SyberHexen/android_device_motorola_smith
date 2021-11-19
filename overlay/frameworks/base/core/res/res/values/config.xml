@@ -187,4 +187,7 @@
     <!-- default refresh rate in the zone defined by brightness and ambient thresholds -->
     <integer name="config_defaultRefreshRateInZone">90</integer>
 
+    <!-- When true, local displays that do not contain any of their own content will automatically
+         mirror the content of the default display. -->
+    <bool name="config_localDisplaysMirrorContent">false</bool>
 </resources>
