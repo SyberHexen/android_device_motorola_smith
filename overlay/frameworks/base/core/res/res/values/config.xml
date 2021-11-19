@@ -159,12 +159,20 @@
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
     <string name="config_mainBuiltInDisplayCutout">
-        M 0, 0
-        H 164
-        V 90
-        H 0
-        L 0, 0
-        @left
+        M -260, 0
+        L -260, 60
+        L -5, 60
+        L 0, 132
+        L 5, 60
+        L 260, 60
+        L 260, 0
+        Z
+        @bottom
+        M -430, 0
+        L -430, -60
+        L 430, -60
+        L 430, 0
+        Z
     </string>
 
     <!-- Not allow to switch to higher refresh rate when (display, ambient) brightness falls into
