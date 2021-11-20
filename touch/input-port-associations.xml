@@ -1,0 +1,4 @@
+<ports>
+    <port display="129" input="samsung_mmi.primary/input1" />
+    <port display="130" input="synaptics_dsx_i2c/input.1" />
+</ports>
