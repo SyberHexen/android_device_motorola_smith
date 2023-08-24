@@ -40,7 +40,7 @@ module = ExtractUtilsModule(
     namespace_imports=namespace_imports,
     blob_fixups=blob_fixups,
     lib_fixups=lib_fixups,
-    add_firmware_proprietary_file=False,
+    add_firmware_proprietary_file=True,
 )
 if __name__ == '__main__':
     utils = ExtractUtils.device_with_common(
