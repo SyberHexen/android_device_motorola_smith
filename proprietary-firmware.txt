@@ -1,4 +1,4 @@
-# All firmware images below are extracted from smith_retailu-user 12 S2PS32.57-23-21 c382c9-50dbcb release-keys - RETEU variant
+# All firmware images below are extracted from smith_retail-user 12 S2PS32.57-23-21 c382c9-50dbcb release-keys - RETEU variant
 
 abl.elf:abl.img;AB
 aop.mbn:aop.img;AB

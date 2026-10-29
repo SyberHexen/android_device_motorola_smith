@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from smith_retailu-user 12 S2PS32.57-23-21 c382c9-50dbcb release-keys - RETEU variant
+# All unpinned blobs below are extracted from smith_retail-user 12 S2PS32.57-23-21 c382c9-50dbcb release-keys - RETEU variant
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
